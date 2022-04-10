@@ -1,4 +1,9 @@
-package za.ac.cput.repository.receptionist;
+/*
+receptionistRepositoryTest.java
+This is the receptionist repository test class
+Author: Felecia Zweni(218330189)
+Date: 10 April 2022
+ */package za.ac.cput.repository.receptionist;
 
 import org.junit.jupiter.api.Test;
 import za.ac.cput.entity.Receptionist;

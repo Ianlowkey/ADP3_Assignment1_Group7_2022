@@ -1,3 +1,9 @@
+/*
+tableRepositoryTest.java
+This is table repository test the class
+Author: Felecia Zweni(218330189)
+Date: 10 April 2022
+ */
 package za.ac.cput.repository.table;
 
 import org.junit.jupiter.api.Test;

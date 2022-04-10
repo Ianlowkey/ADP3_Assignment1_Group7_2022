@@ -1,3 +1,10 @@
+/*
+TableTest.java
+This is the table test class
+Author: Felecia Zweni(218330189)
+Date: 10 April 2022
+ */
+
 package za.ac.cput.entity;
 
 import org.junit.jupiter.api.Disabled;

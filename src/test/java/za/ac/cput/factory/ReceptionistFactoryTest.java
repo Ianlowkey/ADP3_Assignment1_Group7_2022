@@ -1,3 +1,10 @@
+/*
+ReceptionistFactoryTest.java
+This is the class
+Author: Felecia Zweni(218330189)
+Date: 10 April 2022
+ */
+
 package za.ac.cput.factory;
 
 import org.junit.jupiter.api.BeforeEach;

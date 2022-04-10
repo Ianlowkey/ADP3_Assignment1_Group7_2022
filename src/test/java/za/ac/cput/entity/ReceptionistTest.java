@@ -1,3 +1,9 @@
+/*
+ReceptionistTest.java
+This is the receptionist test class
+Author: Felecia Zweni(218330189)
+Date: 10 April 2022
+ */
 package za.ac.cput.entity;
 
 import org.junit.jupiter.api.Disabled;

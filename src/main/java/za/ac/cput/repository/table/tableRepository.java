@@ -1,3 +1,9 @@
+/*
+tableRepository.java
+This is the table repository class
+Author: Felecia Zweni(218330189)
+Date: 10 April 2022
+ */
 package za.ac.cput.repository.table;
 
 import za.ac.cput.entity.Table;

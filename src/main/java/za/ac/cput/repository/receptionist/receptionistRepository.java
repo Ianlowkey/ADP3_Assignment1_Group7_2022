@@ -1,4 +1,9 @@
-package za.ac.cput.repository.receptionist;
+/*
+receptionistRepository.java
+This is the receptionist repository class
+Author: Felecia Zweni(218330189)
+Date: 10 April 2022
+ */package za.ac.cput.repository.receptionist;
 
 
 import za.ac.cput.entity.Receptionist;

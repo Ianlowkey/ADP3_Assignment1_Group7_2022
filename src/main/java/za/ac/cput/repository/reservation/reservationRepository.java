@@ -1,4 +1,9 @@
-package za.ac.cput.repository.reservation;
+/*
+reservationRepository.java
+This is the reservation repository class
+Author: Felecia Zweni(218330189)
+Date: 10 April 2022
+ */package za.ac.cput.repository.reservation;
 
 
 import za.ac.cput.entity.Reservation;

@@ -1,3 +1,10 @@
+/*
+ReceptionistFactory.java
+This is the receptionist factory class
+Author: Felecia Zweni(218330189)
+Date: 10 April 2022
+ */
+
 package za.ac.cput.factory;
 
 import za.ac.cput.entity.Receptionist;
