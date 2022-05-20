@@ -1,4 +1,9 @@
-package za.ac.cput.factory;
+/*
+TableFactoryTest.java
+This is the table factory testclass
+Author: Felecia Zweni(218330189)
+Date: 10 April 2022
+ */package za.ac.cput.factory;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Disabled;

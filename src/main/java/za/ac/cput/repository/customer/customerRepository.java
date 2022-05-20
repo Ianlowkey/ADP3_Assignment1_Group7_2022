@@ -1,4 +1,9 @@
-package za.ac.cput.repository.customer;
+/*
+customerRepository.java
+This is the class
+Author: Felecia Zweni(218330189)
+Date: 10 April 2022
+ */package za.ac.cput.repository.customer;
 import za.ac.cput.entity.Customer;
 import za.ac.cput.repository.customer.impl.ICustomerRepository;
 import za.ac.cput.repository.employee.employeeRepository;

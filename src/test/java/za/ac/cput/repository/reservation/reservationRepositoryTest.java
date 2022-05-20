@@ -1,3 +1,9 @@
+/*
+reservationRepositoryTest.java
+This is reservation Repository test the class
+Author: Felecia Zweni(218330189)
+Date: 10 April 2022
+ */
 package za.ac.cput.repository.reservation;
 
 import org.junit.jupiter.api.Test;

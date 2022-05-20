@@ -1,4 +1,9 @@
-package za.ac.cput.entity;
+/*
+CustomerTest.java
+This is the customer test class
+Author: Felecia Zweni(218330189)
+Date: 10 April 2022
+ */package za.ac.cput.entity;
 
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.DisplayName;
